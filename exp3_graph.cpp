@@ -68,7 +68,6 @@ int main(){
     cout << endl;
 
     wg.un_weighted_undirected_matrix();
-
     return 0;
 }
 
