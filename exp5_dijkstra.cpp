@@ -73,3 +73,15 @@ int main(){
 
     return 0;
 }
+
+// | Case    | Time Complexity  |
+// | ------- | ---------------- |
+// | Best    | O((V + E) log V) |
+// | Average | O((V + E) log V) |
+// | Worst   | O((V + E) log V) |
+
+// | Case    | Space Complexity |
+// | ------- | ---------------- |
+// | Best    | O(V + E)         |
+// | Average | O(V + E)         |
+// | Worst   | O(V + E)         |
