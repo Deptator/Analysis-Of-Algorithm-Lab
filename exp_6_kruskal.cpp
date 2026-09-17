@@ -70,3 +70,5 @@ int main(){
         cout<<"Minimum Cost of Spanning Tree is :"<<cost;
     return 0;
 }
+
+
